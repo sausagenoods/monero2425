@@ -1,0 +1,5 @@
+github.com/go-chi/chi/v5 v5.0.8 h1:lD+NLqFcAi1ovnVZpsnObHGW4xb4J8lNmoYVfECH1Y0=
+github.com/go-chi/chi/v5 v5.0.8/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
+github.com/mb-14/gomarkov v0.0.0-20210216094942-a5b484cc0243 h1:F0IAcxxFNzC8/HOxI5Q2hpsWAoGdy+lGMjoVyrcMeSw=
+github.com/mb-14/gomarkov v0.0.0-20210216094942-a5b484cc0243/go.mod h1:5F3Y03oxWIyMq3Wa4AxU544RYnXNZwHBfqpDpdLibBY=
+github.com/montanaflynn/stats v0.6.3/go.mod h1:wL8QJuTMNUDYhXwkmfOly8iTdp5TEcJFWZD2D7SIkUc=
